@@ -1,5 +1,5 @@
 {
-    "version": "1.5.0",
-    "New": "The newversion contains the hability to create safe zones with a polygon shape. \nthis meaning that u can be pretty creative with it. \nyou are no longer bound to a circle or scuare."
+    "version": "1.5.5",
+    "New": "This Version add the option to turn off the blips in the client config. \n Later this week im gonna update to ingame option."
 }
 
