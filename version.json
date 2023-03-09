@@ -1,5 +1,5 @@
 {
-    "version": "1.6.0",
-    "New": "This Version add a User interface with the option to teleport to zones. \nAdded standalone utility.\nNO NEED TO DELET ZONAS.JSON"
+    "version": "1.6.1",
+    "New": "This Version add a User interface with the option to teleport to zones. \nAdded standalone utility.\nNO NEED TO DELET ZONAS.JSON\n^1Fixed some bugs in the update release yesterday (3/8/2023).^7"
 }
 
