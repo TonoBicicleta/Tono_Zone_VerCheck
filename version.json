@@ -1,5 +1,5 @@
 {
-    "version": "1.5.5",
-    "New": "This Version add the option to turn off the blips in the client config. \n Later this week im gonna update to ingame option."
+    "version": "1.6.0",
+    "New": "This Version add a User interface with the option to teleport to zones. \nAdded standalone utility.\nNO NEED TO DELET ZONAS.JSON"
 }
 
