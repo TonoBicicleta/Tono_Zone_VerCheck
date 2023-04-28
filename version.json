@@ -1,5 +1,5 @@
 {
-    "version": "1.6.1",
-    "New": "This Version add a User interface with the option to teleport to zones. \nAdded standalone utility.\nNO NEED TO DELET ZONAS.JSON\n^1Fixed some bugs in the update release yesterday (3/8/2023).^7"
+    "version": "1.6.2",
+    "New": "This Version add a User interface that shows the zones that cars dont delete. \nRemove ace perms and added discord permissions.\nAdded a white list to use guns with the discord role allowed in that zone.\nAdded (dor now) a way to know the player heading while creating the zone.\n added the option to remove last point while creating zone.\nAnd a few more things!!!"
 }
 
